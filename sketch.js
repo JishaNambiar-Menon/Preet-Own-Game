@@ -22,7 +22,7 @@ var boosterScore = 100
 
 function preload(){
     backgroundImg = loadImage("Images/bg.png");
-    playerImage = loadImage("Images/Player1.gif");
+    playerImage = loadImage("Images/player1.png");
     zomImg1 = loadImage("Images/zom1.png");
     zomImg2 = loadImage("Images/zom2.png");
     bulletImg = loadImage("Images/bullet.png");
